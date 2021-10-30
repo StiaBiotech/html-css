@@ -1,0 +1,9 @@
+MockFlow (https://www.mockflow.com/) - WireFrame para projetar aplicações 
+Emojipedia (https://emojipedia.org/) -  Biblioteca de Emojis para HTML/css
+GitHub (https://github.com) - Repositório Remoto de Arquivos
+Google Adsense (https://www.google.com/intl/pt-BR_br/adsense/start/) - Monetização por meio de anuncios nas páginas
+Google Fonts (https://fonts.google.com/) - Fontes para HTML
+Inkscape (https://inkscape.org/pt-br/) - Programa para Gráficos Vetoriais
+Estudonauta (https://www.estudonauta.com/) - Plataforma de Estudos em tecnologias Web e Dev
+Recode (https://recode.org.br/cursos/) - Plataforma de Cursos Gratuitos
+Hostinger (https://www.hostinger.com.br/) - Hospedagem de Sites
